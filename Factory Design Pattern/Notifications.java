@@ -1,0 +1,3 @@
+interface Notifications{
+    void Send();
+}
