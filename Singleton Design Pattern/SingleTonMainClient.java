@@ -1,4 +1,4 @@
-class Main{
+public class SingleTonMainClient {
     public static void main(String[] args){
         Calculator c1=Calculator.getInstance();
         c1.a=10;
